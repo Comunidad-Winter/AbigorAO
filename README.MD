@@ -173,3 +173,8 @@ en carisma.
 
 ## Galeria
 
+https://i.imgur.com/j3CZPba.png
+
+https://i.imgur.com/dG6QIfT.png
+
+https://i.imgur.com/j3CZPba.png
