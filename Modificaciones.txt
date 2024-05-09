@@ -1,0 +1,433 @@
+*Agregado /verprocesos
+
+*Agregado /silenciar tiempo nick silencia al usuario por el tiempo que nosotros queremos, es advertido por mensaje.
+
+*Agregado comando /seguro , hace seguro e insegura las ciudades.
+
+*Agregado el daño que hacemos arriba del npcs
+
+*Agregado auto L al inmovilizar
+
+*Agregado teclas configurables
+
+*Agregado form por el cual se banea a los usuarios, solo usan gms
+
+*Agregado invisibidad con alfablendhing
+
+*Se agrego Menu
+
+*Se suprimieron todos los botones de opciones,estadisticas,party y clanes del frm.main
+
+*Se mejoro el global, se habla con "7"
+		Se puede activar y desactivar desde el frm.opciones
+		El Gm habilita o deshabilita el global.
+		/Globalact
+
+*Se ven los personajes del mismo clan estando invisibles.
+
+*Arreglado bug de clan.
+
+*Agregado /daroro nick oro
+
+*Los fantasmas tienen alpha.
+
+*Se puede equipar con doble click
+
+*Se agrego sistema de borrar pj funcional para charfile
+
+*Agregado /promedio
+
+*Se agrego que al faltar solo 10 segundos para que se caiga la dopa, los carteles se ponen en rojo.
+
+*Cuando nos paralizan nos ponemos de color verde
+
+*Al hacerle click al usuario ves la clase que es
+
+*Exp * 30
+
+*Oro *40
+
+*Agregado Alphablending en los techos
+
+*Agregado sistema de dia y noche, tanto manual como automatico cambia cada 1 hora.
+
+*Agregado /retopj, retas al jugador por el pj, al ganar te das la pass del otro jugador, si deslogea tambien lo hace
+
+*Agregado /niebla activa y si lo volvemos a activar desactiva.
+
+*Agregado minimapa
+
+*Eliminacion mdH
+
+*Solucionados bugs de /retopj
+
+*Para poder pelear por un pj, tenes que estar segura, ser lvl +25 entre otros.
+
+*Agregado fx al apuñalar en npcs y usuarios.
+
+*Se agrego codigo /sebusca con recompenza de 1 matadraco.
+
+*Agregado recu pass por mail, revisar si se encuentra en mensajes no deseados.
+
+*Te dice los stats que subiste al pasar de nivel arriba del pj.
+
+*Arreglo bug de clanes
+
+*Agregado /ping
+
+*Agregado /duelo nick@cantidad de oro, minimo de oro son 100k       TODO OK
+
+*Al crear clan tu nombre y clan se vuelven gris oscuro
+
+*Para fundar clan hay que consegir 1 gema azul, 1 naranja y 1 lila, luego poner /GEMAR
+				-Despues de consegir 3 gemas rojas poner /GEMAC
+				-Por ultimo con 3 gemas celestes poner /GEMAL para dar la gema del liderazgo y poder fundar clan
+
+Para fundar clan tenes que ser nivel 25 o mas, ser pirata, tener 100 skills en liderazgo, 18
+en carisma.
+
+*No se pueden cagar los pjs entre personajes.
+
+*Agregado /depositar todo y /retirar todo
+
+*Al resucitar un usuario tarda aproximadamente 5 segundos en revivir.
+
+*Se agrego sombras a los pjs.
+
+*Se cambiaron las jerarquias, con 50 frags, 1 torneo y 1 quest ya sos 1era jerarquia
+			      con 100 frags, 3 torneos y 2 quest ya sos 2da jerarquia
+			      con 150 frags, 5 torneo y 4 quest ya sos 3era jerarquia
+
+*Cuando dejamos el mouse sobre un objeto, el objeto se vuelve intermitente.
+
+*Agregado torneo 1 vs 1
+
+*Agregado torneo 2vs2 
+
+ESTOS TORNEOS SE PONEN /TORNEO (ACTIVA TORNEO) USUARIOS (/PARTICIPAR)
+
+*Se agregaron auras
+
+*Se agrego hechizo portal planar.
+
+*Arreglado bug en /duelo.
+
+*Los usuarios en el mapa 60 se pueden atacar aunque sean de la misma faccion.
+
+*Se agrego que para poder tirar hechizos poderosos se necesite el anillo Mágico
+
+HASTA ACA TODO ES FUNCIONAL, TODO ESTA CONFIGURADO COMO DEBE SER, LO UNICO QUE HAY QUE REPARAR ES QUE AL TERIMNAR EL DUELO DICE "SALIENDO DEL JUEGO EN 10 SEGUNDOS)
+Y QUE EL CAMBIAR MSN DEL RECU PASS.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Se agrego actualizador totalmente funcional.
+
+*Al morir se puede tipear /hogar y te lleva a ullathorpe o podes seguir vagando por el mundo de los muertos.
+
+*Todas las interfaces colocadas y configuracion de las mismas.
+
+*Cuando un gm apaga el servidor se hace un savegame
+
+*Los dados tiran entre 16/18
+
+*Los skills suben mas rapidos.
+
+*Agregado macrotrabajo, mina,tala y/o pesca cada 3 segundos.
+
+*Se agrego que al fallar un golpe al npc diga "fallas" arriba del pj.
+
+*Se agrego una mejor inteligencia a los npcs, esquivan arboles y no se puede trabar ya que buscan de forma aleatoria un nuevo camino para poder llegar al usuario.
+
+*Se arreglaron problemas en potas
+
+*Se elimino el empiezas a meditar en 2 segundos.
+
+*Lo que se habla queda en consola, cambiar color despues.
+
+*Se actualizo el main a la version "Abigor-AO 1.0"
+
+*Se colocaron los link en el launcher a la web y wiki.
+
+*Se reemplazo todo lo que decia fenix-ao por Abigor-AO
+
+*Al minimizar aparece el logo de Abigor-AO
+
+*Al matar a un npcs te dice el oro que te dio.
+
+*El usuario utiliza el comando /consult CONSULTA y le llega a los GM que el usuario hizo una consulta. Se realizo un form con diferentes opciones.
+
+*Se elimino el /gm
+
+*Se agrego backup automatico cada 3 horas
+
+*Se agrego limpieza del mundo automatica cada 1 hora.
+
+*En el mapa de duelos no se puede tirar invisibilidad ni resucitar.
+
+*Si un usuario trata de atacar a otro estando invisible, se le quita la invisibilidad. La invisibilidad solo se usa con el fin de escapar.
+
+*Se agrego la opcion "manual" en el menu
+
+*Se realizo un formulario que se va a utilizar de minimanual para los usarios nuevos donde se explican muchas cosas del juego.
+
+*Se agrego mapa del mundo, al hacerle click en el label que marca al posicion y mapa donde nos encontramos, nos aparecera el mapa del mundo.
+
+*al ser neutral y fundar clan el nick se vuelve violeta
+
+*El cambio de mail por retopj y/o motivo particular, se tendra que hacer via soporte por una cuestion de seguridad y seguir los pasos.
+
+*Se agregaron los donadores, al ser donador el usuario se habla en amarillo, tiene el titulo de donador y su nick es amarillo
+
+*Se elimino el sistema de subasta ya que al testearlo a fondo poseia grandes bugs.
+
+*Los semidioses son de color violeta claro y la desc es del mismo color.
+
+*Los consejeros son de color celeste y la desc de color celeste.
+
+*No se pueden invocar elementales ni nada del estilo en el mapa de duelos.
+
+*Se mejoro radicalmente el sistema de soporte y se agrego un icono en el frm.main como en FAO     /DAMESOS
+
+*Se agrego formulario al /buscar
+
+*Se arreglo el inmovilizar
+
+*Se agregaron nuevos baculos, cada uno tiene un daño especifico tanto sobre usuarios como sobre npcs
+
+*Se arreglaron bug a la hora de depositar en el banco.
+
+*Se arreglo bug en duelo
+
+-------------------------------------------COMANDOS DE CONSEJEROS-------------------------------------------
+
+
+/HORA Envía un mensaje Broadcast con la hora del servidor.
+
+/TELEPLOC Teleporta al gm/consejero a la posición del último click.
+
+/IRA nick Teleporta al gm/consejero donde se encuentra el personaje.
+
+/TRABAJANDO Muestra la lista de los personajes que están trabajando.
+
+/INVISIBLE Hace invisible al gm/consejero.
+
+/CARCEL nick@motivo@tiempo Manda al personaje en a la prisión por el motivo y el tiempo (en minutos) expuestos.
+
+/SUM nick Trae el personaje a donde se encuentra el GM.
+
+/ONLINE
+
+/GO "mapa" Teletransporta al mapa(PARA CONSEJEROS SOLO CIUDAES)
+
+/DENC "nick" Suma una denuncia de cheat al personaje.
+
+/DENI "nick" Suma una denuncia por insultos al personaje.
+
+/DENUNCIAS "nick" Muestra las denuncias del personaje.
+
+-------------------------------------------COMANDOS DE SEMIDIOSES-------------------------------------------
+
+/DONDE nick Muestra la posición delpersonaje.
+
+/NENE número de mapa Muestra los npcs de el MAPA.
+
+/REVIVIR nick Revive el personaje.
+
+/INFO nick Muestra las estadísticas del personaje.
+
+/SKILLS nick Muestra los Skills del personaje.
+
+/INV nick Muestra el inventario del personaje.
+
+/TELEP nick mapa x y Teleporta el personaje, al mapa y coordenadas indicadas.
+
+/SEGUIR Hace que el npc anteriormente clickeado te siga.
+
+/RESETINV Resetea el inventario del npc clickeado anteriormente.
+
+/RMSG texto Mensaje broadcast para todos los usuarios.
+
+/ECHAR "nick" Echa al personaje.
+
+/KILL "nick" Mata al personaje.
+
+/CC Muestra una lista de criaturas para sumonear.
+
+/ONLINEGM Muestra la lista de Consejeros GMs y Dioses online.
+
+/TELEP "nick" "mapa" "x" "y" Teleporta al consejero, al mapa número MAPA, coordenadas X e Y.
+
+/STAFF texto Mensaje broadcast entre personajes del Staff.
+
+/REM texto Salva un comentario en los logs.
+
+/RMSGT "MENSAJE@TIEMPOTOTAl@INTERVALO" Repite el mensaje por consola cada tantos minutos indicados en el intervalo por el tiempo total indicado.
+
+/MAILNICK "mail" Te mustra los personajes con ese mail.
+
+/BANT "causa@nick@dias" Banea al personaje por esa causa y esos días.
+
+/BAN "motivo@nick" Prohibe la entrada al personaje, por los motivos expuestos.
+
+/UNBAN "nick" Permite entrar al personaje anteriormente baneado.
+
+/ATR "nick" Te muestra los atributos del personaje.
+
+/OMAP Te dice los usuarios online en el mapa.
+
+/CMAP Cantidad de personajes en el mapa.
+
+/TORNEO Activa/desactiva el modo torneo.
+
+/VERTORNEO Te dice quienes quieren participar en el torneo.
+
+/VIGILAR "nick" Te dice lo que hace.
+
+/IPNICK "ip" Te dice que usuarios tan conectados con esa ip.
+
+/VENTAS Muestra la ventas.
+
+/PRO "nick" Protege al personaje.
+
+/PROTEGER Protege al personaje clikeado anteriormente.
+
+/GANOTORNEO Clikear previamente al personaje para que se le sume un torneo ganado.
+
+/GANOQUEST Clikear previamente al personaje para que se le sume ua quest ganada.
+
+/PERDIOTORNEO Le resta un torneo al personaje cliekado.
+
+/PERDIOQUEST Le resta una quest al personaje clikeado.
+
+/NOMBRE "nick viejo" "nick nuevo" Cambia el nick del personaje.
+
+-------------------------------------------COMANDOS DE DIOSES-------------------------------------------
+
+/MOD "nick" oro "cantidad" Modifica el oro que posee el personaje.
+
+/MOD "nick" exp "cantidad" Modifica la experiencia que posee el personaje.
+
+/MOD "nick" mex "cantidad" Le suma experiencia al personaje.
+
+/MOD "nick" level "número" Modifica el nivel que posee el personaje.
+
+/MOD"nick" neu "cantidad" Modifica los neutrales matados que posee el personaje.
+
+/MOD "nick" ciu "cantidad" Modifica los ciudadanos matados que posee el personaje.
+
+/MOD "nick" cri "cantidad" Modifica los criminales matados que posee el personaje.
+
+/MOD "nick" head "número de head" Modifica la cabeza del personaje.
+
+/MOD "nick" body "número de body" Modifica el cuerpo del personaje.
+
+/MOD "nick" clase "clase" Modifica la clase del personaje.
+
+/MOD "nick" ski "cantidad" Modifica la cantidad de skillpoints que posee el personaje en todas las habilidades.
+
+/MOD "nick" man "cantidad" Modifica la mana del personaje.
+
+/MOD "nick" hp "cantidad" Modifica la vida del personaje.
+
+/MOD "nick" sta "cantidad" Modifica la stámina del personaje.
+
+/MOD "nick" ham "cantidad" Modifica el hambre mínimo del personaje.
+
+/MOD "nick" sed "cantidad" Modifica la cantidad mínima de sed del personaje.
+
+/MOD "nick" bando "bando" Modifica el bando pudiendo ser 0, 1 ó 2.
+
+/MOD "nick" tor "cantidad" Modifica la cantidad de torneos ganados.
+
+/MOD "nick" que "cantidad" Modifica la cantidad de quests ganadas.
+
+/MOD "nick" atf "cantidad" Modifica la fuerza del personaje pudiendo ser máximo 21 y mínmo 6.
+
+/MOD "nick" ati "cantidad" Modifica la inteligencia del personaje pudiendo ser máximo 21 y mínmo 6.
+
+/MOD "nick" ata "cantidad" Modifica la agilidad del personaje pudiendo ser máximo 21 y mínmo 6.
+
+/MOD "nick" atc "cantidad" Modifica el carisma del personaje pudiendo ser máximo 21 y mínmo 6.
+
+/MOD "nick" atv "cantidad" Modifica la constitución del personaje pudiendo ser máximo 21 y mínmo 6.
+
+/RACC número Sumonea la criatura "número" con respawn.
+
+/ACC número Sumonea la criatura "número" sin respawn.
+
+/MATA Elimina sin respawn a la criatura clikeada anteriormente.
+
+/MUERE Elimna con respawn a la criatura clikeada anteriormente.
+
+/MASSKILL Elimina a todos los npcs del campo de visión del Dios.
+
+/MASSDEST Remueve todos los objetos del área de visión del Dios.
+
+/SMSG Mensaje en forma de msgbox a todos los users.
+
+/CT mapa X Y Crea un teleport hacia la posición indicada.
+
+/DT Destruye el teleport clikeado anteriormente.
+
+/DEST Parado arriba de cualquier objeto lo destruye, incluyendo puertas, carteles, fogatas, árboles, etc.
+
+/BLOQ Bloquea la posición en la que se está parado.
+
+/NAVE Setea el modo navegando.
+
+/DOBACKUP Inicia el worldsave.
+
+/DOBACKUPL Inicia el worldsave.
+
+/BANIP "nick o ip" Banea la ip del personaje.
+
+/LLUVIA Activa/desactiva la lluvia.
+
+/UNBANIP "ip" Desbannea la ip, no así el personaje con el que se la banneo.
+
+/BUSCAR "nombre del item" Busca el número de item ingresando el nombre.
+
+/ITEM "número de item" "cantidad" Crea el item y su cantidad seleccionada.
+
+/RESTRINGIR Habilita/deshabilita el server para usuarios comunes.
+
+/APAGAR Apaga el servidor ¡NO USAR!
+
+/GRABAR Graba los personajes.
+
+/SHOW INT Muestra el frmMain del servidor (no usar si no les piden!).
+
+/LIMPIARMUNDO Llama a la limpieza del mundo.
+
+/DIE Te morís.
+
+/INDEXPJ "nick" Muestra el numero del personaje.
+
+/CAMBIARWS "número" Cambia el worldsave.
+
+/REINICIAR2 Apaga el servidor ¡NO USAR!
+
+/REINICIAR1 Apaga el servidor ¡NO USAR!
+
+/NOMANA Tu GM se queda sin mana para que puedas meditar.
+
+/PAUSA Pausa el servidor pero nose puede reanudar, ¡NO USAR!
+
+/DATS Carga los hechisos, los objetos y los npcs.
+
+/MODOQUEST Activa el modo quest.
+
+/INTERVALOS Te muestra los intervalos del servidor.
+
+/INTGG "numero" Cambia el intervalo del golpe-golpe. 10 es 1 segundo.
+
+/INTGH "numero" Cambia el intervalo del golpe-hechizo. 10 es 1 segundo.
+
+/INTHH "numero" Cambia el intervalo del hechizo-hechizo. 10 es 1 segundo.
+
+/INTHG "numero" Cambia el intervalo del hechizo-golpe. 10 es 1 segundo.
+
+/INTAA "numero" Cambia el intervalo del flecha-flecha. 10 es 1 segundo.
+
+/INTSH "numero" Cambia el intervalo del SH. 10 es 1 segundo.

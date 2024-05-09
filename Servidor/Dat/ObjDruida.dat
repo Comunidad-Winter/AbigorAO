@@ -1,0 +1,17 @@
+[INIT]
+NumObjs=5
+
+[Obj1] ' Antidoto
+Index=166
+
+[Obj2] ' Poción Roja 
+Index=709
+
+[Obj3] ' Poción Azul 
+Index=708
+
+[Obj4] ' Poción de fuerza
+Index=39
+
+[Obj5] ' Poción de agilidad
+Index=36

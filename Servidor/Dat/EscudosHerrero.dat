@@ -1,0 +1,12 @@
+[INIT]
+NumEscudos=3
+
+[Escudo1] ' Escudo de hierro
+Index=130
+
+[Escudo2] ' Escudo imperial
+Index=616
+
+[Escudo3] ' Escudo imperial +1
+Index=623
+

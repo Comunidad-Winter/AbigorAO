@@ -1,0 +1,591 @@
+[INIT]
+NumMaps=69
+
+[Mapa1]
+Name=Ullathorpe 
+MusicNum=27-1
+Pk= 1
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa2]
+Name=Camino del sur
+MusicNum=15-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 4
+
+[Mapa3]
+Name=Bosque Dorck
+MusicNum=1-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 17
+LeftPunto= 4
+
+[Mapa4]
+Name=Camino del sur
+MusicNum=14-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 18
+LeftPunto= 4
+
+[Mapa5]
+Name=Camino del sur
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 14
+LeftPunto= 4
+
+[Mapa6]
+Name=Colinas de Nix
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 13
+LeftPunto= 4
+
+[Mapa7]
+Name=Nix
+MusicNum=5-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 12
+LeftPunto= 4
+PK=1
+
+[Mapa8]
+Name=Camino del norte
+MusicNum=13-1
+Terreno=BOSQUE
+Zona=CAMPO
+BackUp= 1
+TopPunto= 15
+LeftPunto= 3
+
+[Mapa9]
+Name=Camino del norte
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 15
+LeftPunto= 2
+
+[Mapa10]
+Name=Camino del norte
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 15
+LeftPunto= 1
+
+[Mapa11]
+Name=Proximidades de Jizio
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 15
+LeftPunto= 5
+
+[Mapa12]
+Name=Tundra Jizio
+MusicNum=12-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 15
+LeftPunto= 6
+
+[Mapa13]
+Name=Bosque oscuro
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 15
+LeftPunto= 7
+
+[Mapa14]
+Name=Bosque oscuro
+MusicNum=3-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 5
+
+[Mapa15]
+Name=Barrios Bajos
+MusicNum=16-1
+Terreno=Bosque
+Zona=CIUDAD
+TopPunto= 15
+LeftPunto= 8
+Pk= 1
+
+[Mapa16]
+Name=Banderbill Central
+MusicNum=11-1
+Terreno=Bosque
+Zona=Ciudad
+TopPunto= 15
+LeftPunto= 9
+Pk= 1
+
+[Mapa17]
+Name=Banderbill norte
+MusicNum=11-1
+Terreno=Bosque
+Zona=CIUDAD
+TopPunto= 15
+LeftPunto= 10
+Pk= 1
+
+[Mapa18]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa19]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 7
+
+[Mapa20]
+Name=Cercanias de Nueva Esperanza
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 9
+
+[Mapa21]
+Name=Nueva Esperanza Oeste
+MusicNum=13-1
+Terreno=Bosque
+Zona=CIUDAD
+TopPunto= 14
+LeftPunto= 9
+Pk= 1
+
+[Mapa22]
+Name=Nueva Esperanza Este
+MusicNum=13-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 18
+LeftPunto= 5
+Pk= 1
+
+[Mapa23]
+Name=Cercanias de Nueva Esperanza
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 18
+LeftPunto= 6
+
+[Mapa24]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 18
+LeftPunto= 7
+
+[Mapa25]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 17
+LeftPunto= 5
+
+[Mapa26]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 17
+LeftPunto= 6
+
+[Mapa27]
+Name=Cercanias de Karkov
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 17
+LeftPunto= 7
+
+[Mapa28]
+Name=Tundra Karkov
+MusicNum=37-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 19
+LeftPunto= 6
+
+[Mapa29]
+Name=Desierto
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 19
+LeftPunto= 5
+
+[Mapa30]
+Name=Desierto
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 20
+LeftPunto= 5
+
+[Mapa31]
+Name=Desierto
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 20
+LeftPunto= 4
+
+[Mapa32]
+Name=Arghal
+MusicNum=32-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 19
+LeftPunto= 4
+PK=1
+
+[Mapa33]
+Name=Cercanias de Arghal
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 18
+LeftPunto= 5
+
+[Mapa34]
+Name=Oceano Abierto
+MusicNum=8-1
+Pk= 1
+Terreno=BOSQUE
+Zona=Campo
+BackUp= 1
+TopPunto= 19
+LeftPunto= 3
+
+[Mapa35]
+Name=Cercanias de Verril
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 18
+LeftPunto= 3
+
+[Mapa36]
+Name=Tundra Verril
+MusicNum=21-1
+Terreno=BOSQUE
+Zona=CAMPO
+BackUp= 1
+TopPunto= 17
+LeftPunto= 3
+
+[Mapa37]
+Name=Carcel
+MusicNum=14-1
+Pk= 1
+Terreno=BOSQUE
+Zona=Campo
+Restringir= 1
+TopPunto= 0
+LeftPunto= 0
+
+[Mapa38]
+Name=Muelle de Banderbill
+MusicNum=16-1
+Terreno=BOSQUE
+Zona=Ciudad
+TopPunto= 16
+LeftPunto= 2
+Pk= 1
+
+[Mapa39]
+Name=Sur de Nueva Esperanza
+MusicNum=17-1
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 16
+LeftPunto= 3
+
+[Mapa40]
+Name=Sur de Nueva Esperanza
+MusicNum=17-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 15
+LeftPunto= 4
+
+[Mapa41]
+Name=Newbie Dungeon
+MusicNum=4-1
+NoMagia=0
+Nivel=1
+Terreno=
+Restringir=1
+BackUp=0
+Pk=1
+
+[Mapa42]
+Name=Newbie Dungeon
+MusicNum=4-1
+NoMagia=0
+Nivel=1
+Terreno=
+Restringir=1
+BackUp=0
+Pk=1
+
+[Mapa43]
+Name=Infierno
+MusicNum=9-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 18
+LeftPunto= 4
+Pk= 1
+
+[Mapa44]
+Name=Minas Dorck
+MusicNum=35-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa45]
+Name=Mapa de GMs
+MusicNum=9-1
+Terreno=BOSQUE
+Zona=CIUDAD
+TopPunto= 19
+LeftPunto= 3
+Pk= 1
+
+[Mapa46]
+Name=Dungeon Jizio PB
+MusicNum=2-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa47]
+Name=Dungeon Jizio piso 1
+MusicNum=2-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa48]
+Name=Dungeon Dragon 1
+MusicNum=2-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa49]
+Name=Dungeon Verril PB
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa50]
+Name=Dungeon Verril piso 1
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa51]
+Name=Dungeon Verril piso 2
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa52]
+Name=Minas de Oro
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa53]
+Name=Dungeon Verril piso 3
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa54]
+Name=Dungeon Dragon 2
+MusicNum=20-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa55]
+Name=Dungeon Karkov PB
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa56]
+Name=Dungeon Karkov piso 1
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa57]
+Name=Golems 
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa58]
+Name=Demonios
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa59]
+Name=Dungeon Dragon 3
+MusicNum=23-1
+Terreno=BOSQUE
+Zona=DUNGEON
+TopPunto= 19
+LeftPunto= 4
+Nivel= 14
+
+[Mapa60]
+Name=Arenas
+Terreno=BOSQUE
+Zona=CAMPO
+TopPunto= 20
+LeftPunto= 5
+
+[Mapa61]
+Name=Intermundia 
+MusicNum=16-1
+Pk= 1
+Terreno=BOSQUE
+Zona=Campo
+BackUp= 1
+TopPunto= 15
+LeftPunto= 4
+Pk= 1
+
+[Mapa62]
+Name=Mapa de espera
+Pk= 1
+Terreno=Bosque
+Zona=Ciudad
+BackUp= 1
+
+[Mapa63]
+Name=Mapa de subastas
+Pk= 1
+Terreno=Bosque
+Zona=Ciudad
+BackUp= 1
+
+[Mapa64]
+Name=Dungeon Donador Piso 1
+MusicNum=6-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa65]
+Name=Dungeon Donador Piso 2
+MusicNum=6-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa66]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa67]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa68]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6
+
+[Mapa69]
+Name=Oceano Abierto
+MusicNum=8-1
+Terreno=BOSQUE
+Zona=Campo
+TopPunto= 16
+LeftPunto= 6

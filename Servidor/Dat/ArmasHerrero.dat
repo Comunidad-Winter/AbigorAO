@@ -1,0 +1,93 @@
+[INIT]
+NumArmas=28
+
+[Arma1] ' Daga
+Index=15
+
+[Arma2] ' Daga +1
+Index=165
+
+[Arma3] ' Daga +2
+Index=365
+
+[Arma4] ' Daga +3
+Index=366
+
+[Arma5] ' Daga +4
+Index=367
+
+[Arma6]
+Index=576 ' Daga Infernal
+Recompensa=1
+
+[Arma6] ' Espada corta
+Index=164
+
+[Arma7] ' Garrote
+Index=398
+
+[Arma8] ' Espada Bastarda
+Index=9
+
+[Arma9] ' Espada larga
+Index=2
+
+[Arma10] ' Hacha
+Index=3
+
+[Arma11] ' Hacha larga de guerra
+Index=126
+
+[Arma12] ' Martillo de guerra
+Index=401
+
+[Arma13] ' Espada Vikinga
+Index=123
+
+[Arma14] ' Sable
+Index=125
+
+[Arma15] ' Hacha doble filo
+Index=129
+
+[Arma16] ' Hacha de Barbaro
+Index=159
+
+[Arma17] ' Cimitarra
+Index=399
+
+[Arma18] ' Espada de mango de bronce
+Index=124
+
+[Arma19] ' Espada de plata
+Index=403
+
+[Arma20] ' Espada de plata +1
+Index=589
+Recompensa=1
+
+[Arma21] ' Espada de amatista
+Index=591
+Recompensa=1
+
+[Arma22] ' Espada de fuego
+Index=592
+Recompensa=1
+
+[Arma23] ' Espada mata dragones
+Index=402
+
+[Arma24] ' Horquilla
+Index=776
+
+[Arma25] ' Espada de hielo
+Index=593
+
+[Arma26] ' Espada ardiente
+Index=594
+
+[Arma27] ' Espada corta +1
+Index=577
+
+[Arma28] ' Espada corta +2
+Index=578

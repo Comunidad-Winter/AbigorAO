@@ -1,0 +1,167 @@
+[INIT]
+NumObjs=55
+
+[Obj1] 'Vestimenta comun azul
+Index=31
+
+[Obj2] 'Vestimenta comun bordo
+Index=32
+
+[Obj3] 'Vestimenta comun gris
+Index=35
+
+[OBJ4] 'Vestimenta comun de mujer
+Index=170
+
+[OBJ5] 'Vestimenta comun (bajos)
+index=240
+
+[OBJ6] 'Vestimenta comun de mujer (bajos)
+index=527
+
+[OBJ7] 'Ropa de clan
+Index=80
+
+[OBJ8] 'Ropa de clan
+Index=45
+
+[OBJ9] 'Ropa Común Ovispo (bajos)
+index=507
+
+[OBJ10] 'Ropa de aldeano
+index=515
+
+[OBJ11] 'Ropa de aldeano (enano)
+index=560
+
+[OBJ12] 'Ropa común roja (mujer)
+Index=504
+
+[OBJ13] 'Ropa común marron (mujer)
+Index=505
+
+[OBJ14] 'Ropa común azul (mujer)
+Index=506
+
+[OBJ15] 'Ropa Estuario (Mujer)
+index=508
+
+[OBJ16] 'Ropa de campesino
+index=501
+
+[OBJ17] 'Ropa de campesino (bajos)
+index=502
+
+[OBJ18] 'Ropa de trabajador
+index=490
+
+[OBJ19] 'Ropa de trabajador (enano)
+index=486
+
+[OBJ20] 'Vestido de novia (mujer)
+index=511
+
+[OBJ21] 'Vestido de novia elfa oscura (mujer)
+index=550
+
+[OBJ22] 'Vestido azul (mujer)
+index=382
+
+[OBJ23] 'White lady (mujer)
+index=488
+
+[OBJ24] 'Vestido Azul de mujer (bajos)
+index=512
+
+[OBJ25] 'Ropa elegante 
+index=656
+
+[OBJ26] 'Ropa elegante (bajos)
+index=657
+
+[OBJ27] 'Ropa elegante de mujer (bajos)
+index=694
+
+[OBJ28] 'Ropa elegante (mujer)
+index=707
+
+[OBJ29] 'Vestido Indulgente (mujer)
+index=510
+
+[OBJ30] 'Vestido de bruja (mujer)
+index=513
+
+[OBJ31] 'Túnica de principiante (mujer)
+index=850
+
+[OBJ32] 'Túnica de principiante
+index=239
+
+[OBJ33] 'Túnica de principiante (bajos)
+index=524
+
+[OBJ34] 'Tunica de monje  
+index=381
+
+[OBJ35] 'Túnica de mago  
+index=196
+
+[OBJ36] 'Túnica azul
+index=238
+
+[OBJ37] 'Túnica azul (bajos)
+index=639
+
+[OBJ38] 'Túnica siniestra (bajos)
+index=675
+
+[OBJ39] 'Túnica  Celestial 
+index=135
+
+[OBJ40] 'Túnica  Celestial (bajos)
+index=588
+
+[OBJ41] 'Tunica reforzada (bajos)
+index=525
+
+[OBJ42] 'Tunica reforzada de mujer (bajos)
+index=526
+
+[OBJ43] 'Tunica de aventurero
+index=357
+
+[OBJ44] 'Túnica de aventurero (bajos)
+index=619
+
+[OBJ45] 'Túnica de la cruz
+index=503
+
+[OBJ46] 'Túnica Legendaria
+index=519
+
+[OBJ47] 'Túnica Legendaria (bajos)
+index=520
+
+[OBJ48] 'Túnica Plateada
+index=491
+
+[OBJ49] 'Sombrero de principiante
+index=573
+
+[OBJ50] 'Sombrero de Hechizero
+index=572
+
+[Obj51] 'Kimono rojo
+Index=772
+
+[Obj52] ' Armadura de cuero (hombre)
+Index=30
+
+[Obj53] ' Armadura de cuero (mujer) 
+Index=529
+
+[Obj54] ' Armadura de cuero (bajos) 
+Index=774
+
+[OBJ55] 'Vestido de bruja elfa oscura (mujer)
+index=514

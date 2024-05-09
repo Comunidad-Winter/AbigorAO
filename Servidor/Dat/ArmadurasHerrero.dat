@@ -1,0 +1,70 @@
+[INIT]
+NumArmaduras=20
+
+[Armadura1] ' Armadura del Dragón (Mujer)
+Index=482
+Recompensa=1
+
+[Armadura2] ' Armadura del Dragón (bajos)
+Index=483
+Recompensa=1
+
+[Armadura3] ' Armadura de cuero reforzada
+Index=672
+
+[Armadura4] ' Cota de Mallas 
+Index=359
+
+[Armadura5] ' Cota de Mallas (Mujer)
+Index=499
+
+[Armadura6] ' Cota de Mallas (bajos)
+Index=671
+
+[Armadura7] ' Armadura de las sombras
+Index=356
+
+[Armadura8] ' Armadura de Cuero verde
+Index=360
+
+[Armadura9] ' Armaduras de Placas
+Index=391
+
+[Armadura10] ' Armaduras de Placas (bajos)
+Index=243
+
+[Armadura11] ' Armadura de placas rojas
+Index=497
+
+[Armadura12] ' Armadura Bruñida (bajos)
+Index=500
+
+[Armadura13] ' Armadura de la Ciénaga
+Index=496
+
+[Armadura14] ' Armadura de la Ciénaga (bajos)
+Index=693
+
+[Armadura15] ' Armadura Escarlata
+Index=495
+
+[Armadura16] ' Armadura dorada
+Index=650
+Recompensa=1
+
+[Armadura17] ' Armadura  plateada (mujer)
+Index=487
+Recompensa=1
+
+[Armadura18] ' Armadura dorada (bajos)
+Index=667
+Recompensa=1
+
+[Armadura19] ' Armadura Ocre
+Index=485
+Recompensa=1
+
+[Armadura20] ' Armadura del Dragón rojo
+Index=481
+Recompensa=1
+

@@ -1,0 +1,373 @@
+[INIT]
+NumArmas=55
+[Arma1] 'Espada generica 
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3] 'Hacha larga de guerra
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Espada de plata
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=13756
+Dir2=13768
+Dir3=13749
+Dir4=13762
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'Daga
+[ARMA8]
+Dir1=12900
+Dir2=12902
+Dir3=12899
+Dir4=12901
+
+'DagaRoja
+[ARMA9]
+Dir1=12926
+Dir2=12928
+Dir3=12925
+Dir4=12927
+
+'EspadaAzul
+[ARMA10]
+Dir1=12952
+Dir2=12954
+Dir3=12951
+Dir4=12953
+
+'EspadaAzul 2
+[ARMA11]
+Dir1=12978
+Dir2=12980
+Dir3=12977
+Dir4=12979
+
+'Hacha
+[ARMA12]
+Dir1=13235
+Dir2=13237
+Dir3=13234
+Dir4=13236
+
+'Matadracos
+[ARMA13]
+Dir1=13675
+Dir2=13677
+Dir3=13674
+Dir4=13676
+
+'Arco engarzado
+[ARMA14]
+Dir1=14387
+Dir2=14389
+Dir3=14386
+Dir4=14388
+
+'Vara de Fresno
+[ARMA15]
+Dir1=13756
+Dir2=13768
+Dir3=13749
+Dir4=13762
+
+'Baston Nudoso
+[ARMA16]
+Dir1=13783
+Dir2=13795
+Dir3=13776
+Dir4=13789
+
+'Baculo Sagrado
+[ARMA17]
+Dir1=13810
+Dir2=13822
+Dir3=13803
+Dir4=13816
+
+'Hacha de Bárbaro
+[ARMA18]
+Dir1=13933
+Dir2=13935
+Dir3=13932
+Dir4=13934
+
+'Espada de Bárbaro
+[ARMA19]
+Dir1=4719
+Dir2=4721
+Dir3=4718
+Dir4=4720
+
+'Hacha doble filo
+[Arma20]
+Dir1=13888'2
+Dir2=13900'4
+Dir3=13881'1
+Dir4=13894'3
+
+'Globo
+[Arma21]
+Dir1=1502'2
+Dir2=1504'4
+Dir3=1501'1
+Dir4=1503'3
+
+'Globo
+[Arma22]
+Dir1=7214'2
+Dir2=7216'4
+Dir3=7213'1
+Dir4=7215'3
+
+'Globo
+[Arma23]
+Dir1=9915'2
+Dir2=9917'4
+Dir3=9914'1
+Dir4=9916'3
+
+'Globo
+[Arma24]
+Dir1=9941'2
+Dir2=9943'4
+Dir3=9940'1
+Dir4=9942'3
+
+'Varita
+[Arma25]
+Dir1=9967'2
+Dir2=9969'4
+Dir3=9966'1
+Dir4=9968'3
+
+'Garrote
+[Arma26]
+Dir1=14645'2
+Dir2=14647'4
+Dir3=14644'1
+Dir4=14646'3
+
+'Espada oxidada
+[Arma27]
+Dir1=14671'2
+Dir2=14673'4
+Dir3=14670'1
+Dir4=14672'3
+
+'Martillo de guerra
+[Arma28]
+Dir1=14697'2
+Dir2=14699'4
+Dir3=14696'1
+Dir4=14698'3
+
+'Sable
+[Arma29]
+Dir1=14723'2
+Dir2=14725'4
+Dir3=14722'1
+Dir4=14724'3
+
+'Espada vikinga
+[Arma30]
+Dir1=14749'2
+Dir2=14751'4
+Dir3=14748'1
+Dir4=14750'3
+
+'Horquilla
+[Arma31]
+Dir1=14974'2
+Dir2=14986'4
+Dir3=14967'1
+Dir4=14980'3
+
+'Espada con mango de bronce
+[Arma32]
+Dir1=15011'2
+Dir2=15013'4
+Dir3=15010'1
+Dir4=15012'3
+
+'Espada de amatista
+[Arma33]
+Dir1=15037'2
+Dir2=15039'4
+Dir3=15036'1
+Dir4=15038'3
+
+'Espada de Fuego
+[Arma34]
+Dir1=15063'2
+Dir2=15065'4
+Dir3=15062'1
+Dir4=15064'3
+
+'Espada de Hielo
+[Arma35]
+Dir1=15089'2
+Dir2=15091'4
+Dir3=15088'1
+Dir4=15090'3
+
+'Espada de Hielo
+[Arma36]
+Dir1=15116'2
+Dir2=15118'4
+Dir3=15115'1
+Dir4=15117'3
+
+'Espada de Aire
+[Arma37]
+Dir1=15142'2
+Dir2=15144'4
+Dir3=15141'1
+Dir4=15143'3
+
+'Daga +1
+[ARMA38]
+Dir1=15168
+Dir2=15170
+Dir3=15167
+Dir4=15169
+
+'Daga +2
+[ARMA39]
+Dir1=15194
+Dir2=15196
+Dir3=15193
+Dir4=15195
+
+
+'Daga +3
+[ARMA40]
+Dir1=15220
+Dir2=15222
+Dir3=15219
+Dir4=15221
+
+'Daga +4
+[ARMA41]
+Dir1=15246
+Dir2=15248
+Dir3=15245
+Dir4=15247
+
+'Espada corta
+[ARMA42]
+Dir1=15272
+Dir2=15274
+Dir3=15271
+Dir4=15273
+
+'Espada corta +1
+[ARMA43]
+Dir1=15298
+Dir2=15300
+Dir3=15297
+Dir4=15299
+
+'Espada corta +2
+[ARMA44]
+Dir1=15324
+Dir2=15326
+Dir3=15323
+Dir4=15325
+
+'Espada dos manos
+[ARMA45]
+Dir1=15350
+Dir2=15352
+Dir3=15349
+Dir4=15351
+
+'Daga Zaeron
+[ARMA46]
+Dir1=15393
+Dir2=15395
+Dir3=15392
+Dir4=15394
+
+'Espada ignea
+[ARMA47]
+Dir1=15516
+Dir2=15518
+Dir3=15515
+Dir4=15517
+
+'Espada Diabolica
+[ARMA48]
+Dir1=15544
+Dir2=15546
+Dir3=15543
+Dir4=15545
+
+'Hacha dorada
+[ARMA49]
+Dir1=15571
+Dir2=15573
+Dir3=15570
+Dir4=15572
+
+'Vara dorada
+[ARMA50]
+Dir1=15808
+Dir2=15820
+Dir3=15801
+Dir4=15814
+
+[Arma51] 'Bastonnudoso
+Dir1=15844
+Dir2=15845
+Dir3=15843
+Dir4=15846
+
+[Arma52] 'Varagordezca
+Dir1=15929
+Dir2=15941
+Dir3=15922
+Dir4=15935
+
+[Arma53] 'Arco simple reforzado
+Dir1=15967
+Dir2=15969
+Dir3=15966
+Dir4=15968
+
+[Arma54] 'Arco elfico
+Dir1=15993
+Dir2=15995
+Dir3=15992
+Dir4=15994
+
+[Arma55] 'Arco de las tinieblas
+Dir1=16019
+Dir2=16021
+Dir3=16018
+Dir4=16020
